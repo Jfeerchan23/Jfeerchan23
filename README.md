@@ -8,7 +8,11 @@
 </p>
 
 ## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-## My Skill Set  
+<p>
+  Recently graduated Software Engineer with hands-on experience in application development. Passionate about programming and problem solving, I actively seek opportunities to expand my skills in a work environment that promotes continued professional growth. I enjoy collaborating effectively in multidisciplinary teams, working towards shared goals and constantly challenging myself to achieve new accomplishments.
+</p>
+
+## My Skill Set 🚀
 <table><tr><td valign="top" width="33%">
 
 
@@ -40,7 +44,7 @@
 
 
 
-### Tools  
+### Tools 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -68,7 +72,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jfeerchan23's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jfeerchan23&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## Connect with me  
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <div align="center">
 <a href="https://github.com/jfeerchan23" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

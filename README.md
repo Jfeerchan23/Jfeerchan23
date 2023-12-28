@@ -1,16 +1,16 @@
 ### Hi there, I'm José Fernando Chan Dzib 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Software+Web+Developer">
+    </img>
+  </a>
+</p>
 
-<!--
-**Jfeerchan23/Jfeerchan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jfeerchan23/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:jferchan23@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail"><img width="40px" alt="Gmail" title="Gmail" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true"></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>

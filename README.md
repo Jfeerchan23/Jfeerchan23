@@ -1,4 +1,6 @@
-### Hi there, I'm José Fernando Chan Dzib 👋
+
+<h1 align="center">Hi there, I'm José Fernando Chan Dzib 👋</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Software+Web+Developer">

@@ -1,16 +1,33 @@
-<h1 align="center">Hi , I'm José Fernando Chan Dzib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Fernando Chan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&color=%2336BCF7&lines=Software+Engineering+Student;Web+Applications+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&color=%2336BCF7&lines=Jr.+Software+Engineer;Web+Applications+Developer">
     </img>
   </a>
 </p>
+<!-- Ranks -->
+<p align="center"> 
+	<!--<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
+	</a>-->
+	<img src="https://komarev.com/ghpvc/?username=Jfeerchan23&label=Profile%20views&color=073763&labelColor=000000&style=for-the-badge" alt="Jfeerchan23" width=15%/>
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+</p>
 
 ## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-<p>
-  Recently graduated Software Engineer with hands-on experience in application development. Passionate about programming and problem solving, I actively seek opportunities to expand my skills in a work environment that promotes continued professional growth. I enjoy collaborating effectively in multidisciplinary teams, working towards shared goals and constantly challenging myself to achieve new accomplishments.
-</p>
+
+- 🙆 My full name is José Fernando Chan Dzib.
+- 🎂 I'm 23 years old 🦂.
+- 🏫 I studied `Software Engineering` at Universidad Autónoma de Yucatán.
+- ☁ Interested in web development and cloud.
+- 📖 I’m currently studying Python 🐍.
+- 👨‍💻 I love challenges problem solving.
+
 
 ## My Skill Set 🚀
 <table><tr><td valign="top" width="33%">
@@ -55,13 +72,16 @@
 
 </td></tr></table>  
 
-<br/>  
+## 🔥 Streak Stats
 
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jfeerchan23's streak" src="https://streak-stats.demolab.com/?user=Jfeerchan23&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
 
 ## GitHub Profile Stats 💻 
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jfeerchan23's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jfeerchan23&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jfeerchan23's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Jfeerchan23&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
